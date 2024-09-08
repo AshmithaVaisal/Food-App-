@@ -1,0 +1,95 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Margherita Pizza",
+        "description": "Classic delight with 100% real mozzarella cheese",
+        "price": 249,
+        "category": "Pizza",
+        "image": "https://img.freepik.com/premium-photo/italian-pizza-margherita-black-background_356194-1114.jpg",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Paneer Butter Masala",
+        "description": "Cottage cheese cooked in a rich, creamy tomato gravy",
+        "price": 299,
+        "category": "Indian",
+        "image": "https://img.freepik.com/premium-photo/delicious-paneer-butter-masala-photography_928503-851.jpg",
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "name": "Chicken Biryani",
+        "description": "Fragrant basmati rice cooked with tender chicken and aromatic spices",
+        "price": 349,
+        "category": "Biryani",
+        "image": "https://i.pinimg.com/564x/c5/d2/62/c5d262f3377da91a7229772026a2ec5c.jpg",
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "name": "Veg Hakka Noodles",
+        "description": "Stir-fried noodles with mixed vegetables and soy sauce",
+        "price": 199,
+        "category": "Chinese",
+        "image": "https://img.freepik.com/premium-photo/bowl-fried-noodles-with-pile-parsley-top_893055-88.jpg",
+        "rating": 4.3
+      },
+      {
+        "id": 5,
+        "name": "Chocolate Brownie",
+        "description": "Warm, gooey brownie topped with a scoop of vanilla ice cream",
+        "price": 149,
+        "category": "Dessert",
+        "image": "https://images.pexels.com/photos/5386658/pexels-photo-5386658.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.9
+      },
+      {
+        "id": 6,
+        "name": "Margarita Pasta",
+        "description": "Pasta in a creamy tomato and basil sauce, topped with parmesan",
+        "price": 229,
+        "category": "Pasta",
+        "image": "https://st2.depositphotos.com/1326558/7226/i/450/depositphotos_72263189-stock-photo-penne-pasta-in-tomato-sauce.jpg",
+        "rating": 4.4
+      },
+      {
+        "id": 7,
+        "name": "Tandoori Chicken",
+        "description": "Juicy chicken marinated in yogurt and spices, roasted to perfection",
+        "price": 399,
+        "category": "Indian",
+        "image": "https://img.freepik.com/premium-photo/tandoori-chicken-indian-food-photography_1036998-1820.jpg",
+        "rating": 4.6
+      },
+      {
+        "id": 8,
+        "name": "Greek Salad",
+        "description": "Fresh salad with lettuce, olives, feta cheese, and a tangy vinaigrette",
+        "price": 189,
+        "category": "Salad",
+        "image": "https://img.freepik.com/free-photo/dietary-salad-with-tomatoes-feta-lettuce-spinach-pine-nuts_2829-20128.jpg",
+        "rating": 4.2
+      },
+      {
+        "id": 9,
+        "name": "Butter Naan",
+        "description": "Soft and buttery flatbread, perfect for any curry",
+        "price": 49,
+        "category": "Indian",
+        "image": "https://media.istockphoto.com/id/1140752821/photo/indian-naan-bread-with-garlic-butter-on-wooden-table.jpg?s=612x612&w=0&k=20&c=lTtokg-1e2OxzzPDHhtwWLR_43TCRBTcmpJU08OL6nQ=",
+        "rating": 4.5
+      },
+      {
+        "id": 10,
+        "name": "Garlic Breadsticks",
+        "description": "Crispy breadsticks topped with garlic and herbs, served with dip",
+        "price": 99,
+        "category": "Snacks",
+        "image": "https://static.toiimg.com/thumb/84881342.cms?imgsize=425708&width=800&height=800",
+        "rating": 4.7
+      }
+    ]
+  }
+  
